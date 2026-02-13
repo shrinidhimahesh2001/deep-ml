@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:10:31.155Z",
+  "generated_at": "2026-10-09T22:10:32.909Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,58 @@
       "last_pushed_at": "2026-02-11T00:16:13.535Z",
       "language": "python",
       "lines": 4
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-02-13T06:33:31.804Z",
+      "last_pushed_at": "2026-02-13T06:33:31.804Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-02-13T06:37:25.512Z",
+      "last_pushed_at": "2026-02-13T06:37:25.512Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-02-13T06:47:20.958Z",
+      "last_pushed_at": "2026-02-13T06:47:20.958Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-02-13T23:57:27.986Z",
+      "last_pushed_at": "2026-02-13T23:57:27.986Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
