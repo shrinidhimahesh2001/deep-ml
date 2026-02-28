@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:10:40.130Z",
+  "generated_at": "2026-10-09T22:10:42.073Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-02-26T06:41:34.933Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-02-28T19:01:24.787Z",
+      "last_pushed_at": "2026-02-28T19:01:24.787Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-02-28T20:05:22.716Z",
+      "last_pushed_at": "2026-02-28T20:05:22.716Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
